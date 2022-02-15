@@ -16,6 +16,7 @@ class Entities(Enum):
     LIBNAME = "LIBNAME"
     CARDINAL = "CARDINAL"
     FUNCTION = "FUNCTION"
+    DATAFRAME = "DATAFRAME"
 
 
 class TrainDataGenerator:
